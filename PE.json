@@ -1,0 +1,742 @@
+[
+  {
+    "Nome": "Abreu e Lima",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Afogados da Ingazeira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Afrânio",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Agrestina",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Água Preta",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Águas Belas",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Alagoinha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Aliança",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Altinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Amaraji",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Angelim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Araçoiaba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Araripina",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Arcoverde",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Barra de Guabiraba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Barreiros",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Belém de Maria",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Belém de São Francisco",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Belo Jardim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Betânia",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Bezerros",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Bodocó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Bom Conselho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Bom Jardim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Bonito",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Brejão",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Brejinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Brejo da Madre de Deus",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Buenos Aires",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Buíque",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cabo de Santo Agostinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cabrobó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cachoeirinha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Caetés",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Calçado",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Calumbi",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Camaragibe",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Camocim de São Félix",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Camutanga",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Canhotinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Capoeiras",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Carnaíba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Carnaubeira da Penha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Carpina",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Caruaru",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Casinhas",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Catende",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cedro",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Chã de Alegria",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Chã Grande",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Condado",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Correntes",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cortês",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cumaru",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Cupira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Custódia",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Dormentes",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Escada",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Exu",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Feira Nova",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Fernando de Noronha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ferreiros",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Flores",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Floresta",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Frei Miguelinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Gameleira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Garanhuns",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Glória do Goitá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Goiana",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Granito",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Gravatá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Iati",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ibimirim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ibirajuba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Igarassu",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Iguaraci",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ilha de Itamaracá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Inajá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ingazeira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ipojuca",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ipubi",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itacuruba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itaíba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itambé",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itapetim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itapissuma",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Itaquitinga",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jaboatão dos Guararapes",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jaqueira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jataúba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jatobá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "João Alfredo",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Joaquim Nabuco",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jucati",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jupi",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Jurema",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lagoa do Carro",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lagoa do Itaenga",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lagoa do Ouro",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lagoa dos Gatos",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lagoa Grande",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Lajedo",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Limoeiro",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Macaparana",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Machados",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Manari",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Maraial",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Mirandiba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Moreilândia",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Moreno",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Nazaré da Mata",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Olinda",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Orobó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Orocó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ouricuri",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Palmares",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Palmeirina",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Panelas",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Paranatama",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Parnamirim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Passira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Paudalho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Paulista",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Pedra",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Pesqueira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Petrolândia",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Petrolina",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Poção",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Pombos",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Primavera",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Quipapá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Quixaba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Recife",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Riacho das Almas",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Ribeirão",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Rio Formoso",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Sairé",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Salgadinho",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Salgueiro",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Saloá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Sanharó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Cruz",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Cruz da Baixa Verde",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Cruz do Capibaribe",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Filomena",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Maria da Boa Vista",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Maria do Cambucá",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Santa Terezinha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Benedito do Sul",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Bento do Una",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Caitano",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São João",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Joaquim do Monte",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São José da Coroa Grande",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São José do Belmonte",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São José do Egito",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Lourenço da Mata",
+    "UF": "PE"
+  },
+  {
+    "Nome": "São Vicente Ferrer",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Serra Talhada",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Serrita",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Sertânia",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Sirinhaém",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Solidão",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Surubim",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tabira",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tacaimbó",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tacaratu",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tamandaré",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Taquaritinga do Norte",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Terezinha",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Terra Nova",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Timbaúba",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Toritama",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tracunhaém",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Trindade",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Triunfo",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tupanatinga",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Tuparetama",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Venturosa",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Verdejante",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Vertente do Lério",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Vertentes",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Vicência",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Vitória de Santo Antão",
+    "UF": "PE"
+  },
+  {
+    "Nome": "Xexéu",
+    "UF": "PE"
+  }
+]

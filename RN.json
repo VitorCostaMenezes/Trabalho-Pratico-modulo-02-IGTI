@@ -1,0 +1,670 @@
+[
+  {
+    "Nome": "Acari",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Açu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Afonso Bezerra",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Água Nova",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Alexandria",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Almino Afonso",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Alto do Rodrigues",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Angicos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Antônio Martins",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Apodi",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Areia Branca",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Arês",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Augusto Severo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Baía Formosa",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Baraúna",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Barcelona",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Bento Fernandes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Bodó",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Bom Jesus",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Brejinho",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Caiçara do Norte",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Caiçara do Rio do Vento",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Caicó",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Campo Redondo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Canguaretama",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Caraúbas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Carnaúba dos Dantas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Carnaubais",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ceará-Mirim",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Cerro Corá",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Coronel Ezequiel",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Coronel João Pessoa",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Cruzeta",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Currais Novos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Doutor Severiano",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Encanto",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Equador",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Espírito Santo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Extremoz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Felipe Guerra",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Fernando Pedroza",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Florânia",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Francisco Dantas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Frutuoso Gomes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Galinhos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Goianinha",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Governador Dix-Sept Rosado",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Grossos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Guamaré",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ielmo Marinho",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ipanguaçu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ipueira",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Itajá",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Itaú",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jaçanã",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jandaíra",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Janduís",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Januário Cicco",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Japi",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jardim de Angicos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jardim de Piranhas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jardim do Seridó",
+    "UF": "RN"
+  },
+  {
+    "Nome": "João Câmara",
+    "UF": "RN"
+  },
+  {
+    "Nome": "João Dias",
+    "UF": "RN"
+  },
+  {
+    "Nome": "José da Penha",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jucurutu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Jundiá",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lagoa d`Anta",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lagoa de Pedras",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lagoa de Velhos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lagoa Nova",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lagoa Salgada",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lajes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lajes Pintadas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Lucrécia",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Luís Gomes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Macaíba",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Macau",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Major Sales",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Marcelino Vieira",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Martins",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Maxaranguape",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Messias Targino",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Montanhas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Monte Alegre",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Monte das Gameleiras",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Mossoró",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Natal",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Nísia Floresta",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Nova Cruz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Olho-d`Água do Borges",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ouro Branco",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Paraná",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Paraú",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Parazinho",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Parelhas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Parnamirim",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Passa e Fica",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Passagem",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Patu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pau dos Ferros",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pedra Grande",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pedra Preta",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pedro Avelino",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pedro Velho",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pendências",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pilões",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Poço Branco",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Portalegre",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Porto do Mangue",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Presidente Juscelino",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Pureza",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Rafael Fernandes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Rafael Godeiro",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Riacho da Cruz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Riacho de Santana",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Riachuelo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Rio do Fogo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Rodolfo Fernandes",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Ruy Barbosa",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Santa Cruz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Santa Maria",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Santana do Matos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Santana do Seridó",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Santo Antônio",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Bento do Norte",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Bento do Trairí",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Fernando",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Francisco do Oeste",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Gonçalo do Amarante",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São João do Sabugi",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São José de Mipibu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São José do Campestre",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São José do Seridó",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Miguel",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Miguel do Gostoso",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Paulo do Potengi",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Pedro",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Rafael",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Tomé",
+    "UF": "RN"
+  },
+  {
+    "Nome": "São Vicente",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Senador Elói de Souza",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Senador Georgino Avelino",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Serra de São Bento",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Serra do Mel",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Serra Negra do Norte",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Serrinha",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Serrinha dos Pintos",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Severiano Melo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Sítio Novo",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Taboleiro Grande",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Taipu",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Tangará",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Tenente Ananias",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Tenente Laurentino Cruz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Tibau",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Tibau do Sul",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Timbaúba dos Batistas",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Touros",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Triunfo Potiguar",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Umarizal",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Upanema",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Várzea",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Venha-Ver",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Vera Cruz",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Viçosa",
+    "UF": "RN"
+  },
+  {
+    "Nome": "Vila Flor",
+    "UF": "RN"
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "Nome": "Acorizal",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Água Boa",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alta Floresta",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alto Araguaia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alto Boa Vista",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alto Garças",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alto Paraguai",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Alto Taquari",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Apiacás",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Araguaiana",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Araguainha",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Araputanga",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Arenápolis",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Aripuanã",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Barão de Melgaço",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Barra do Bugres",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Barra do Garças",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Bom Jesus do Araguaia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Brasnorte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Cáceres",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Campinápolis",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Campo Novo do Parecis",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Campo Verde",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Campos de Júlio",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Canabrava do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Canarana",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Carlinda",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Castanheira",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Chapada dos Guimarães",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Cláudia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Cocalinho",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Colíder",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Colniza",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Comodoro",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Confresa",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Conquista d`Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Cotriguaçu",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Cuiabá",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Curvelândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Curvelândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Denise",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Diamantino",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Dom Aquino",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Feliz Natal",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Figueirópolis d`Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Gaúcha do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "General Carneiro",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Glória d`Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Guarantã do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Guiratinga",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Indiavaí",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Ipiranga do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Itanhangá",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Itaúba",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Itiquira",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Jaciara",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Jangada",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Jauru",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Juara",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Juína",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Juruena",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Juscimeira",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Lambari d`Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Lucas do Rio Verde",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Luciára",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Marcelândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Matupá",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Mirassol d`Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nobres",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nortelândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nossa Senhora do Livramento",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Bandeirantes",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Brasilândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Canaã do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Guarita",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Lacerda",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Marilândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Maringá",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Monte verde",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Mutum",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Olímpia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Santa Helena",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Ubiratã",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Nova Xavantina",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Novo Horizonte do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Novo Mundo",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Novo Santo Antônio",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Novo São Joaquim",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Paranaíta",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Paranatinga",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Pedra Preta",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Peixoto de Azevedo",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Planalto da Serra",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Poconé",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Pontal do Araguaia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Ponte Branca",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Pontes e Lacerda",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Porto Alegre do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Porto dos Gaúchos",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Porto Esperidião",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Porto Estrela",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Poxoréo",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Primavera do Leste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Querência",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Reserva do Cabaçal",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Ribeirão Cascalheira",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Ribeirãozinho",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Rio Branco",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Rondolândia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Rondonópolis",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Rosário Oeste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Salto do Céu",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santa Carmem",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santa Cruz do Xingu",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santa Rita do Trivelato",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santa Terezinha",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santo Afonso",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santo Antônio do Leste",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Santo Antônio do Leverger",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São Félix do Araguaia",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São José do Povo",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São José do Rio Claro",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São José do Xingu",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São José dos Quatro Marcos",
+    "UF": "MT"
+  },
+  {
+    "Nome": "São Pedro da Cipa",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Sapezal",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Serra Nova Dourada",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Sinop",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Sorriso",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Tabaporã",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Tangará da Serra",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Tapurah",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Terra Nova do Norte",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Tesouro",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Torixoréu",
+    "UF": "MT"
+  },
+  {
+    "Nome": "União do Sul",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Vale de São Domingos",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Várzea Grande",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Vera",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Vila Bela da Santíssima Trindade",
+    "UF": "MT"
+  },
+  {
+    "Nome": "Vila Rica",
+    "UF": "MT"
+  }
+]

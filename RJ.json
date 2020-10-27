@@ -1,0 +1,370 @@
+[
+  {
+    "Nome": "Angra dos Reis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Aperibé",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Araruama",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Areal",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Armação dos Búzios",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Arraial do Cabo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Barra do Piraí",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Barra Mansa",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Belford Roxo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Bom Jardim",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Bom Jesus do Itabapoana",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cabo Frio",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cachoeiras de Macacu",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cambuci",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Campos dos Goytacazes",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cantagalo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Carapebus",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cardoso Moreira",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Carmo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Casimiro de Abreu",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Comendador Levy Gasparian",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Conceição de Macabu",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Cordeiro",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Duas Barras",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Duque de Caxias",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Engenheiro Paulo de Frontin",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Guapimirim",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Iguaba Grande",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Itaboraí",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Itaguaí",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Italva",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Itaocara",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Itaperuna",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Itatiaia",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Japeri",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Laje do Muriaé",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Macaé",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Macuco",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Magé",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Mangaratiba",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Maricá",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Mendes",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Mesquita",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Miguel Pereira",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Miracema",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Natividade",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Nilópolis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Niterói",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Nova Friburgo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Nova Iguaçu",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Paracambi",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Paraíba do Sul",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Parati",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Paty do Alferes",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Petrópolis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Pinheiral",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Piraí",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Porciúncula",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Porto Real",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Quatis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Queimados",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Quissamã",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Resende",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Rio Bonito",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Rio Claro",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Rio das Flores",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Rio das Ostras",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Rio de Janeiro",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Santa Maria Madalena",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Santo Antônio de Pádua",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São Fidélis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São Francisco de Itabapoana",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São Gonçalo",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São João da Barra",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São João de Meriti",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São José de Ubá",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São José do Vale do Rio Pret",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São Pedro da Aldeia",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "São Sebastião do Alto",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Sapucaia",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Saquarema",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Seropédica",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Silva Jardim",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Sumidouro",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Tanguá",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Teresópolis",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Trajano de Morais",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Três Rios",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Valença",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Varre-Sai",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Vassouras",
+    "UF": "RJ"
+  },
+  {
+    "Nome": "Volta Redonda",
+    "UF": "RJ"
+  }
+]

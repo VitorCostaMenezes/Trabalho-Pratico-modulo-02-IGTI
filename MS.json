@@ -1,0 +1,314 @@
+[
+  {
+    "Nome": "Água Clara",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Alcinópolis",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Amambaí",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Anastácio",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Anaurilândia",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Angélica",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Antônio João",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Aparecida do Taboado",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Aquidauana",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Aral Moreira",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bandeirantes",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bataguassu",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bataiporã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bela Vista",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bodoquena",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Bonito",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Brasilândia",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Caarapó",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Camapuã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Campo Grande",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Caracol",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Cassilândia",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Chapadão do Sul",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Corguinho",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Coronel Sapucaia",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Corumbá",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Costa Rica",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Coxim",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Deodápolis",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Dois Irmãos do Buriti",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Douradina",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Dourados",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Eldorado",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Fátima do Sul",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Figueirão",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Glória de Dourados",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Guia Lopes da Laguna",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Iguatemi",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Inocência",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Itaporã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Itaquiraí",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Ivinhema",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Japorã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Jaraguari",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Jardim",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Jateí",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Juti",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Ladário",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Laguna Carapã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Maracaju",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Miranda",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Mundo Novo",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Naviraí",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Nioaque",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Nova Alvorada do Sul",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Nova Andradina",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Novo Horizonte do Sul",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Paranaíba",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Paranhos",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Pedro Gomes",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Ponta Porã",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Porto Murtinho",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Ribas do Rio Pardo",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Rio Brilhante",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Rio Negro",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Rio Verde de Mato Grosso",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Rochedo",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Santa Rita do Pardo",
+    "UF": "MS"
+  },
+  {
+    "Nome": "São Gabriel do Oeste",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Selvíria",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Sete Quedas",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Sidrolândia",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Sonora",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Tacuru",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Taquarussu",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Terenos",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Três Lagoas",
+    "UF": "MS"
+  },
+  {
+    "Nome": "Vicentina",
+    "UF": "MS"
+  }
+]

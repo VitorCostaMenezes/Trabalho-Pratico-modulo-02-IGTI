@@ -1,0 +1,3414 @@
+[
+  {
+    "Nome": "Abadia dos Dourados",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Abaeté",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Abre Campo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Acaiaca",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Açucena",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Água Boa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Água Comprida",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Aguanil",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Águas Formosas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Águas Vermelhas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Aimorés",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Aiuruoca",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alagoa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Albertina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Além Paraíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alfenas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alfredo Vasconcelos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Almenara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alpercata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alpinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alterosa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alto Caparaó",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alto Jequitibá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alto Rio Doce",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alvarenga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alvinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Alvorada de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Amparo do Serra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Andradas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Andrelândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Angelândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Antônio Carlos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Antônio Dias",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Antônio Prado de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araçaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Aracitaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araçuaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araguari",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Arantina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araponga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araporã",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Arapuá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araújos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Araxá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Arceburgo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Arcos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Areado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Argirita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Aricanduva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Arinos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Astolfo Dutra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ataléia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Augusto de Lima",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Baependi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Baldim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bambuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bandeira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bandeira do Sul",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Barão de Cocais",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Barão de Monte Alto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Barbacena",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Barra Longa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Barroso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bela Vista de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Belmiro Braga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Belo Horizonte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Belo Oriente",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Belo Vale",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Berilo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Berizal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bertópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Betim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bias Fortes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bicas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Biquinhas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Boa Esperança",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bocaina de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bocaiúva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Despacho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Jardim de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Jesus da Penha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Jesus do Amparo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Jesus do Galho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Repouso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bom Sucesso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bonfim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bonfinópolis de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bonito de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Borda da Mata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Botelhos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Botumirim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Brás Pires",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Brasilândia de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Brasília de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Brasópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Braúnas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Brumadinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bueno Brandão",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Buenópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Bugre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Buritis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Buritizeiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cabeceira Grande",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cabo Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cachoeira da Prata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cachoeira de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cachoeira de Pajeú",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cachoeira Dourada",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caetanópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caeté",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caiana",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cajuri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caldas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Camacho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Camanducaia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cambuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cambuquira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campanário",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campanha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campestre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campina Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campo Azul",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campo Belo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campo do Meio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campo Florido",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campos Altos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Campos Gerais",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cana Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Canaã",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Canápolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Candeias",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cantagalo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caparaó",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capela Nova",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capelinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capetinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capim Branco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capitão Andrade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capitão Enéas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Capitólio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caputira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caraí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caranaíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carandaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carangola",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caratinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carbonita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Careaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carlos Chagas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmésia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo da Cachoeira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo da Mata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo do Cajuru",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo do Paranaíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmo do Rio Claro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carmópolis de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carneirinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carrancas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carvalhópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Carvalhos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Casa Grande",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cascalho Rico",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cássia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cataguases",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Catas Altas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Catas Altas da Noruega",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Catuji",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Catuti",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Caxambu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cedro do Abaeté",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Central de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Centralina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Chácara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Chalé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Chapada do Norte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Chapada Gaúcha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Chiador",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cipotânea",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Claraval",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Claro dos Poções",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cláudio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coimbra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coluna",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Comendador Gomes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Comercinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição da Aparecida",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição da Barra de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição das Alagoas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição das Pedras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição de Ipanema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição do Mato Dentro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição do Pará",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição do Rio Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conceição dos Ouros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cônego Marinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Confins",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Congonhal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Congonhas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Congonhas do Norte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conquista",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conselheiro Lafaiete",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Conselheiro Pena",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Consolação",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Contagem",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coqueiral",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coração de Jesus",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cordisburgo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cordislândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Corinto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coroaci",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coromandel",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coronel Fabriciano",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coronel Murta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coronel Pacheco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Coronel Xavier Chaves",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Córrego Danta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Córrego do Bom Jesus",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Córrego Fundo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Córrego Novo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Couto de Magalhães de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Crisólita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cristais",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cristália",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cristiano Otoni",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cristina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Crucilândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cruzeiro da Fortaleza",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cruzília",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Cuparaque",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Curral de Dentro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Curvelo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Datas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Delfim Moreira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Delfinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Delta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Descoberto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Desterro de Entre Rios",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Desterro do Melo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Diamantina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Diogo de Vasconcelos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dionísio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divinésia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divino das Laranjeiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divinolândia de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divisa Alegre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divisa Nova",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Divisópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dom Bosco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dom Cavati",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dom Joaquim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dom Silvério",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dom Viçoso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dona Eusébia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dores de Campos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dores de Guanhães",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dores do Indaiá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Dores do Turvo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Doresópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Douradoquara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Durandé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Elói Mendes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Engenheiro Caldas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Engenheiro Navarro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Entre Folhas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Entre Rios de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ervália",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Esmeraldas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Espera Feliz",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Espinosa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Espírito Santo do Dourado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Estiva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Estrela Dalva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Estrela do Indaiá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Estrela do Sul",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Eugenópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ewbank da Câmara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Extrema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Faria Lemos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Felício dos Santos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Felisburgo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Felixlândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fernandes Tourinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ferros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fervedouro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Florestal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Formiga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Formoso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fortaleza de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fortuna de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Francisco Badaró",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Francisco Dumont",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Francisco Sá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Franciscópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Frei Gaspar",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Frei Inocêncio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Frei Lagonegro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fronteira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fronteira dos Vales",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Fruta de Leite",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Frutal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Funilândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Galiléia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Gameleiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Glaucilândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Goiabeira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Goianá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Gonçalves",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Gonzaga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Gouveia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Governador Valadares",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Grão Mogol",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Grupiara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guanhães",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guapé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guaraciaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guaraciama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guaranésia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guarani",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guarará",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guarda-Mor",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guaxupé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guidoval",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guimarânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Guiricema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Gurinhatã",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Heliodora",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Iapu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibertioga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibiá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibiaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibiracatu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibiraci",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibirité",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibitiúra de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ibituruna",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Icaraí de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Igarapé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Igaratinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Iguatama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ijaci",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ilicínea",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Imbé de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Inconfidentes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Indaiabira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Indianópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ingaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Inhapim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Inhaúma",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Inimutaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ipaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ipanema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ipatinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ipiaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ipuiúna",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Iraí de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itabira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itabirinha de Mantena",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itabirito",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itacambira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itacarambi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaguara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaipé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itajubá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itamarandiba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itamarati de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itambacuri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itambé do Mato Dentro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itamogi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itamonte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itanhandu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itanhomi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaobim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itapagipe",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itapecerica",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itapeva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itatiaiuçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaú de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaúna",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itaverava",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itueta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ituiutaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itumirim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Iturama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Itutinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jaboticatubas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jacinto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jacuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jacutinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jaguaraçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jaíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jampruca",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Janaúba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Januária",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Japaraíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Japonvar",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jeceaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jenipapo de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jequeri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jequitaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jequitibá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jequitinhonha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jesuânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Joaíma",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Joanésia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "João Monlevade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "João Pinheiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Joaquim Felício",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Jordânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "José Gonçalves de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "José Raydan",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Josenópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Juatuba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Juiz de Fora",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Juramento",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Juruaia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Juvenília",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ladainha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagamar",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa da Prata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa dos Patos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa Dourada",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa Formosa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa Grande",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lagoa Santa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lajinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lambari",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lamim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Laranjal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lassance",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lavras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Leandro Ferreira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Leme do Prado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Leopoldina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Liberdade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lima Duarte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Limeira do Oeste",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Lontra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Luisburgo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Luislândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Luminárias",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Luz",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Machacalis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Machado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Madre de Deus de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Malacacheta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mamonas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Manga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Manhuaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Manhumirim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mantena",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mar de Espanha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Maravilhas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Maria da Fé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mariana",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Marilac",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mário Campos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Maripá de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Marliéria",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Marmelópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Martinho Campos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Martins Soares",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mata Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Materlândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mateus Leme",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mathias Lobato",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Matias Barbosa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Matias Cardoso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Matipó",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mato Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Matozinhos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Matutina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Medeiros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Medina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mendes Pimentel",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mercês",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mesquita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Minas Novas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Minduri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mirabela",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Miradouro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Miraí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Miravânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Moeda",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Moema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monjolos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monsenhor Paulo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Montalvânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Alegre de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Azul",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Belo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Carmelo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Formoso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Santo de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Monte Sião",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Montes Claros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Montezuma",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Morada Nova de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Morro da Garça",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Morro do Pilar",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Munhoz",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Muriaé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Mutum",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Muzambinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nacip Raydan",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nanuque",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Naque",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Natalândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Natércia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nazareno",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nepomuceno",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ninheira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Belém",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Era",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Lima",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Módica",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Ponte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Porteirinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Resende",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova Serrana",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Nova União",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Novo Cruzeiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Novo Oriente de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Novorizonte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Olaria",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Olhos-d`Água",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Olímpio Noronha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Oliveira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Oliveira Fortes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Onça de Pitangui",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Oratórios",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Orizânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ouro Branco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ouro Fino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ouro Preto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ouro Verde de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Padre Carvalho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Padre Paraíso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pai Pedro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paineiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pains",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paiva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Palma",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Palmópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Papagaios",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pará de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paracatu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paraguaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paraisópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paraopeba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Passa Quatro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Passa Tempo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Passabém",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Passa-Vinte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Passos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Patis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Patos de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Patrocínio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Patrocínio do Muriaé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paula Cândido",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Paulistas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pavão",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Peçanha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedra Azul",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedra Bonita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedra do Anta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedra do Indaiá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedra Dourada",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedralva",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedras de Maria da Cruz",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedrinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedro Leopoldo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pedro Teixeira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pequeri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pequi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Perdigão",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Perdizes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Perdões",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Periquito",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pescador",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piau",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piedade de Caratinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piedade de Ponte Nova",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piedade do Rio Grande",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piedade dos Gerais",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pimenta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pingo-d`Água",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pintópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piracema",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pirajuba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piranga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piranguçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piranguinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pirapetinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pirapora",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piraúba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pitangui",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Piumhi",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Planura",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Poço Fundo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Poços de Caldas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pocrane",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pompéu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ponte Nova",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ponto Chique",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ponto dos Volantes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Porteirinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Porto Firme",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Poté",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pouso Alegre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pouso Alto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Prados",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Prata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pratápolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Pratinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Presidente Bernardes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Presidente Juscelino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Presidente Kubitschek",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Presidente Olegário",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Prudente de Morais",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Quartel Geral",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Queluzito",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Raposos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Raul Soares",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Recreio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Reduto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Resende Costa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Resplendor",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ressaquinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Riachinho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Riacho dos Machados",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ribeirão das Neves",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ribeirão Vermelho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Acima",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Casca",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio do Prado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Doce",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Espera",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Manso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Novo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Paranaíba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Pardo de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Piracicaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Pomba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Preto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rio Vermelho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ritápolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rochedo de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rodeiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Romaria",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rosário da Limeira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rubelita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Rubim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sabará",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sabinópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sacramento",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Salinas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Salto da Divisa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Bárbara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Bárbara do Leste",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Bárbara do Monte Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Bárbara do Tugúrio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Cruz de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Cruz de Salinas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Cruz do Escalvado",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Efigênia de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Fé de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Helena de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Juliana",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Luzia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Margarida",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Maria de Itabira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Maria do Salto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Maria do Suaçuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita de Caldas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita de Ibitipoca",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita de Jacutinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita do Itueto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rita do Sapucaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Rosa da Serra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santa Vitória",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana da Vargem",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana de Cataguases",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana de Pirapama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Deserto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Garambéu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Jacaré",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Manhuaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Paraíso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana do Riacho",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santana dos Montes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Amparo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Aventureiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Grama",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Itambé",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Jacinto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Monte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Retiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Antônio do Rio Abaixo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santo Hipólito",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Santos Dumont",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Bento Abade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Brás do Suaçuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Domingos das Dores",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Domingos do Prata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Félix de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Francisco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Francisco de Paula",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Francisco de Sales",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Francisco do Glória",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Geraldo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Geraldo da Piedade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Geraldo do Baixio",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gonçalo do Abaeté",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gonçalo do Pará",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gonçalo do Rio Abaixo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gonçalo do Rio Preto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gonçalo do Sapucaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Gotardo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João Batista do Glória",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João da Lagoa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João da Mata",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João da Ponte",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João das Missões",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João del Rei",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João do Manhuaçu",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João do Manteninha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João do Oriente",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João do Pacuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João do Paraíso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João Evangelista",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São João Nepomuceno",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Joaquim de Bicas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José da Barra",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José da Lapa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José da Safira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José da Varginha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José do Alegre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José do Divino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José do Goiabal",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José do Jacuri",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São José do Mantimento",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Lourenço",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Miguel do Anta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Pedro da União",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Pedro do Suaçuí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Pedro dos Ferros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Romão",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Roque de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião da Bela Vista",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião da Vargem Alegre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Anta",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Maranhão",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Oeste",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Paraíso",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Rio Preto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Sebastião do Rio Verde",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Thomé das Letras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Tiago",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Tomás de Aquino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "São Vicente de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sapucaí-Mirim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sardoá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sarzedo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sem-Peixe",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senador Amaral",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senador Cortes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senador Firmino",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senador José Bento",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senador Modestino Gonçalves",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senhora de Oliveira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senhora do Porto",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Senhora dos Remédios",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sericita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Seritinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serra Azul de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serra da Saudade",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serra do Salitre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serra dos Aimorés",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serrania",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serranópolis de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serranos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Serro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sete Lagoas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Setubinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Silveirânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Silvianópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Simão Pereira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Simonésia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Sobrália",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Soledade de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tabuleiro",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Taiobeiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Taparuba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tapira",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tapiraí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Taquaraçu de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tarumirim",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Teixeiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Teófilo Otoni",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Timóteo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tiradentes",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tiros",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tocantins",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tocos do Moji",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Toledo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tombos",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Três Corações",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Três Marias",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Três Pontas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tumiritinga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Tupaciguara",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Turmalina",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Turvolândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ubá",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ubaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Ubaporanga",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Uberaba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Uberlândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Umburatiba",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Unaí",
+    "UF": "MG"
+  },
+  {
+    "Nome": "União de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Uruana de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Urucânia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Urucuia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vargem Alegre",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vargem Bonita",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vargem Grande do Rio Pardo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Varginha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Varjão de Minas",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Várzea da Palma",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Varzelândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vazante",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Verdelândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Veredinha",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Veríssimo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vermelho Novo",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vespasiano",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Viçosa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Vieiras",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Virgem da Lapa",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Virgínia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Virginópolis",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Virgolândia",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Visconde do Rio Branco",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Volta Grande",
+    "UF": "MG"
+  },
+  {
+    "Nome": "Wenceslau Braz",
+    "UF": "MG"
+  }
+]

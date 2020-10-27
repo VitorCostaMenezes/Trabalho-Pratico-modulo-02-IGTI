@@ -1,0 +1,574 @@
+[
+  {
+    "Nome": "Abaetetuba",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Abel Figueiredo",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Acará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Afuá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Água Azul do Norte",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Alenquer",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Almeirim",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Altamira",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Anajás",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ananindeua",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Anapu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Augusto Corrêa",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Aurora do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Aveiro",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bagre",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Baião",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bannach",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Barcarena",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Belém",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Belterra",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Benevides",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bom Jesus do Tocantins",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bonito",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bragança",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Brasil Novo",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Brejo Grande do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Breu Branco",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Breves",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Bujaru",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Cachoeira do Arari",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Cachoeira do Piriá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Cametá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Canaã dos Carajás",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Capanema",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Capitão Poço",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Castanhal",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Chaves",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Colares",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Conceição do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Concórdia do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Cumaru do Norte",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Curionópolis",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Curralinho",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Curuá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Curuçá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Dom Eliseu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Eldorado dos Carajás",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Faro",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Floresta do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Garrafão do Norte",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Goianésia do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Gurupá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Igarapé-Açu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Igarapé-Miri",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Inhangapi",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ipixuna do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Irituia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Itaituba",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Itupiranga",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Jacareacanga",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Jacundá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Juruti",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Limoeiro do Ajuru",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Mãe do Rio",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Magalhães Barata",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Marabá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Maracanã",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Marapanim",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Marituba",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Medicilândia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Melgaço",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Mocajuba",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Moju",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Monte Alegre",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Muaná",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Nova Esperança do Piriá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Nova Ipixuna",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Nova Timboteua",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Novo Progresso",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Novo Repartimento",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Óbidos",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Oeiras do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Oriximiná",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ourém",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ourilândia do Norte",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Pacajá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Palestina do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Paragominas",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Parauapebas",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Pau d`Arco",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Peixe-Boi",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Piçarra",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Placas",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ponta de Pedras",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Portel",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Porto de Moz",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Prainha",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Primavera",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Quatipuru",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Redenção",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Rio Maria",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Rondon do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Rurópolis",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Salinópolis",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Salvaterra",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Bárbara do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Cruz do Arari",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Isabel do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Luzia do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Maria das Barreiras",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santa Maria do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santana do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santarém",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santarém Novo",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Santo Antônio do Tauá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Caetano de Odivelas",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Domingos do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Domingos do Capim",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Félix do Xingu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Francisco do Pará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Geraldo do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São João da Ponta",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São João de Pirabas",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São João do Araguaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Miguel do Guamá",
+    "UF": "PA"
+  },
+  {
+    "Nome": "São Sebastião da Boa Vista",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Sapucaia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Senador José Porfírio",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Soure",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Tailândia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Terra Alta",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Terra Santa",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Tomé-Açu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Tracuateua",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Trairão",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Tucumã",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Tucuruí",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Ulianópolis",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Uruará",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Vigia",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Viseu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Vitória do Xingu",
+    "UF": "PA"
+  },
+  {
+    "Nome": "Xinguara",
+    "UF": "PA"
+  }
+]

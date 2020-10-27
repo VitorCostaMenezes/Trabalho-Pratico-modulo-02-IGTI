@@ -1,0 +1,410 @@
+[
+  {
+    "Nome": "Água Branca",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Anadia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Arapiraca",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Atalaia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Barra de Santo Antônio",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Barra de São Miguel",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Batalha",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Belém",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Belo Monte",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Boca da Mata",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Branquinha",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Cacimbinhas",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Cajueiro",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Campestre",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Campo Alegre",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Campo Grande",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Canapi",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Capela",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Carneiros",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Chã Preta",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Coité do Nóia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Colônia Leopoldina",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Coqueiro Seco",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Coruripe",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Craíbas",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Delmiro Gouveia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Dois Riachos",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Estrela de Alagoas",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Feira Grande",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Feliz Deserto",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Flexeiras",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Girau do Ponciano",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Ibateguara",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Igaci",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Igreja Nova",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Inhapi",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Jacaré dos Homens",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Jacuípe",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Japaratinga",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Jaramataia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Jequiá da Praia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Joaquim Gomes",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Jundiá",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Junqueiro",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Lagoa da Canoa",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Limoeiro de Anadia",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Maceió",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Major Isidoro",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Mar Vermelho",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Maragogi",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Maravilha",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Marechal Deodoro",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Maribondo",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Mata Grande",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Matriz de Camaragibe",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Messias",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Minador do Negrão",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Monteirópolis",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Murici",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Novo Lino",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Olho d`Água das Flores",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Olho d`Água do Casado",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Olho d`Água Grande",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Olivença",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Ouro Branco",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Palestina",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Palmeira dos Índios",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Pão de Açúcar",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Pariconha",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Paripueira",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Passo de Camaragibe",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Paulo Jacinto",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Penedo",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Piaçabuçu",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Pilar",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Pindoba",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Piranhas",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Poço das Trincheiras",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Porto Calvo",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Porto de Pedras",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Porto Real do Colégio",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Quebrangulo",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Rio Largo",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Roteiro",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Santa Luzia do Norte",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Santana do Ipanema",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Santana do Mundaú",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São Brás",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São José da Laje",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São José da Tapera",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São Luís do Quitunde",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São Miguel dos Campos",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São Miguel dos Milagres",
+    "UF": "AL"
+  },
+  {
+    "Nome": "São Sebastião",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Satuba",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Senador Rui Palmeira",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Tanque d`Arca",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Taquarana",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Teotônio Vilela",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Traipu",
+    "UF": "AL"
+  },
+  {
+    "Nome": "União dos Palmares",
+    "UF": "AL"
+  },
+  {
+    "Nome": "Viçosa",
+    "UF": "AL"
+  }
+]

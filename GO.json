@@ -1,0 +1,986 @@
+[
+  {
+    "Nome": "Abadia de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Abadiânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Acreúna",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Adelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Água Fria de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Água Limpa",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Águas Lindas de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Alexânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aloândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Alto Horizonte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Alto Paraíso de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Alvorada do Norte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Amaralina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Americano do Brasil",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Amorinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Anápolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Anhanguera",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Anicuns",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aparecida de Goiânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aparecida do Rio Doce",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aporé",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Araçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aragarças",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aragoiânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Araguapaz",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Arenópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aruanã",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Aurilândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Avelinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Baliza",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Barro Alto",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Bela Vista de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Bom Jardim de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Bom Jesus de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Bonfinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Bonópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Brazabrantes",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Britânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Buriti Alegre",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Buriti de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Buritinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cabeceiras",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cachoeira Alta",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cachoeira de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cachoeira Dourada",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Caçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Caiapônia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Caldas Novas",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Caldazinha",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campestre de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campinaçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campinorte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campo Alegre de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campo Limpo de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campos Belos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Campos Verdes",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Carmo do Rio Verde",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Castelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Catalão",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Caturaí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cavalcante",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ceres",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cezarina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Chapadão do Céu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cidade Ocidental",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cocalzinho de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Colinas do Sul",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Córrego do Ouro",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Corumbá de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Corumbaíba",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cristalina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cristianópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Crixás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cromínia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Cumari",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Damianópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Damolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Davinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Diorama",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Divinópolis de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Doverlândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Edealina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Edéia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Estrela do Norte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Faina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Fazenda Nova",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Firminópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Flores de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Formosa",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Formoso",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Gameleira de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goianápolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goiandira",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goianésia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goiânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goianira",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Goiatuba",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Gouvelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Guapó",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Guaraíta",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Guarani de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Guarinos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Heitoraí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Hidrolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Hidrolina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Iaciara",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Inaciolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Indiara",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Inhumas",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ipameri",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ipiranga de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Iporá",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Israelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itaberaí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itaguari",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itaguaru",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itajá",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itapaci",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itapirapuã",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itapuranga",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itarumã",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itauçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Itumbiara",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ivolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jandaia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jaraguá",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jataí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jaupaci",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jesúpolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Joviânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Jussara",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Lagoa Santa",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Leopoldo de Bulhões",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Luziânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mairipotaba",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mambaí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mara Rosa",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Marzagão",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Matrinchã",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Maurilândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mimoso de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Minaçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mineiros",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Moiporá",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Monte Alegre de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Montes Claros de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Montividiu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Montividiu do Norte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Morrinhos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Morro Agudo de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mossâmedes",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mozarlândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mundo Novo",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Mutunópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nazário",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nerópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Niquelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova América",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Aurora",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Crixás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Glória",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Iguaçu de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Roma",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Nova Veneza",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Novo Brasil",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Novo Gama",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Novo Planalto",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Orizona",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ouro Verde de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Ouvidor",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Padre Bernardo",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Palestina de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Palmeiras de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Palmelo",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Palminópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Panamá",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Paranaiguara",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Paraúna",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Perolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Petrolina de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Pilar de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Piracanjuba",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Piranhas",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Pirenópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Pires do Rio",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Planaltina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Pontalina",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Porangatu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Porteirão",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Portelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Posse",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Professor Jamil",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Quirinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Rialma",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Rianápolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Rio Quente",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Rio Verde",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Rubiataba",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Sanclerlândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Bárbara de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Cruz de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Fé de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Helena de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Isabel",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Rita do Araguaia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Rita do Novo Destino",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Rosa de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Tereza de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santa Terezinha de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santo Antônio da Barra",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santo Antônio de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Santo Antônio do Descoberto",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Domingos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Francisco de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São João d`Aliança",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São João da Paraúna",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Luís de Montes Belos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Luíz do Norte",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Miguel do Araguaia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Miguel do Passa Quatro",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Patrício",
+    "UF": "GO"
+  },
+  {
+    "Nome": "São Simão",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Senador Canedo",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Serranópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Silvânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Simolândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Sítio d`Abadia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Taquaral de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Teresina de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Terezópolis de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Três Ranchos",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Trindade",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Trombas",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Turvânia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Turvelândia",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Uirapuru",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Uruaçu",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Uruana",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Urutaí",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Valparaíso de Goiás",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Varjão",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Vianópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Vicentinópolis",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Vila Boa",
+    "UF": "GO"
+  },
+  {
+    "Nome": "Vila Propício",
+    "UF": "GO"
+  }
+]

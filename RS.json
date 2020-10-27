@@ -1,0 +1,1986 @@
+[
+  {
+    "Nome": "Aceguá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Água Santa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Agudo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ajuricaba",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alecrim",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alegrete",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alegria",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Almirante Tamandaré do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alpestre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alto Alegre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alto Feliz",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Alvorada",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Amaral Ferrador",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ametista do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "André da Rocha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Anta Gorda",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Antônio Prado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arambaré",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Araricá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Aratiba",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio do Meio",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio do Padre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio do Sal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio do Tigre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio dos Ratos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arroio Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Arvorezinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Augusto Pestana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Áurea",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bagé",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Balneário Pinhal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barão de Cotegipe",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barão do Triunfo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barra do Guarita",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barra do Quaraí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barra do Ribeiro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barra do Rio Azul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barra Funda",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barracão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Barros Cassal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Benjamin Constant do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bento Gonçalves",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boa Vista das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boa Vista do Buricá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boa Vista do Cadeado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boa Vista do Incra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boa Vista do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bom Jesus",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bom Princípio",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bom Progresso",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bom Retiro do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Boqueirão do Leão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bossoroca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Bozano",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Braga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Brochier",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Butiá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caçapava do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cacequi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cachoeira do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cachoeirinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cacique Doble",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caibaté",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caiçara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Camaquã",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Camargo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cambará do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campestre da Serra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campina das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campinas do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campo Bom",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campo Novo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Campos Borges",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Candelária",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cândido Godói",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Candiota",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Canela",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Canguçu",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Canoas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Canudos do Vale",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capão Bonito do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capão da Canoa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capão do Cipó",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capão do Leão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capela de Santana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capitão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Capivari do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caraá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Carazinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Carlos Barbosa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Carlos Gomes",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Casca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caseiros",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Catuípe",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Caxias do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Centenário",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cerrito",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cerro Branco",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cerro Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cerro Grande do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cerro Largo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Chapada",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Charqueadas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Charrua",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Chiapeta",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Chuí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Chuvisca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cidreira",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ciríaco",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Colinas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Colorado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Condor",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Constantina",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coqueiro Baixo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coqueiros do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coronel Barros",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coronel Bicaco",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coronel Pilar",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cotiporã",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Coxilha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Crissiumal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cristal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cristal do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cruz Alta",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cruzaltense",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Cruzeiro do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "David Canabarro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Derrubadas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dezesseis de Novembro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dilermando de Aguiar",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dois Irmãos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dois Irmãos das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dois Lajeados",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dom Feliciano",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dom Pedrito",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dom Pedro de Alcântara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Dona Francisca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Doutor Maurício Cardoso",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Doutor Ricardo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Eldorado do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Encantado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Encruzilhada do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Engenho Velho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Entre Rios do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Entre-Ijuís",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Erebango",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Erechim",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ernestina",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Erval Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Erval Seco",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Esmeralda",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Esperança do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Espumoso",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Estação",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Estância Velha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Esteio",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Estrela",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Estrela Velha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Eugênio de Castro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Fagundes Varela",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Farroupilha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Faxinal do Soturno",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Faxinalzinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Fazenda Vilanova",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Feliz",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Flores da Cunha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Floriano Peixoto",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Fontoura Xavier",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Formigueiro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Forquetinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Fortaleza dos Valos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Frederico Westphalen",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Garibaldi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Garruchos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gaurama",
+    "UF": "RS"
+  },
+  {
+    "Nome": "General Câmara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gentil",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Getúlio Vargas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Giruá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Glorinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gramado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gramado dos Loureiros",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gramado Xavier",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Gravataí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Guabiju",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Guaíba",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Guaporé",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Guarani das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Harmonia",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Herval",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Herveiras",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Horizontina",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Hulha Negra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Humaitá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ibarama",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ibiaçá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ibiraiaras",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ibirapuitã",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ibirubá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Igrejinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ijuí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ilópolis",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Imbé",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Imigrante",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Independência",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Inhacorá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ipê",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ipiranga do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Iraí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itaara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itacurubi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itapuca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itaqui",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itati",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Itatiba do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ivorá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ivoti",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jaboticaba",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jacuizinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jacutinga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jaguarão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jaguari",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jaquirana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jari",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Jóia",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Júlio de Castilhos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lagoa Bonita do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lagoa dos Três Cantos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lagoa Vermelha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lagoão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lajeado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lajeado do Bugre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lavras do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Liberato Salzano",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Lindolfo Collor",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Linha Nova",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Maçambara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Machadinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mampituba",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Manoel Viana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Maquiné",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Maratá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Marau",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Marcelino Ramos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mariana Pimentel",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mariano Moro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Marques de Souza",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mata",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mato Castelhano",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mato Leitão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mato Queimado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Maximiliano de Almeida",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Minas do Leão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Miraguaí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Montauri",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Monte Alegre dos Campos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Monte Belo do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Montenegro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mormaço",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Morrinhos do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Morro Redondo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Morro Reuter",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Mostardas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Muçum",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Muitos Capões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Muliterno",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Não-Me-Toque",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nicolau Vergueiro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nonoai",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Alvorada",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Araçá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Bassano",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Boa Vista",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Bréscia",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Candelária",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Esperança do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Hartz",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Pádua",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Palma",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Petrópolis",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Prata",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Ramada",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Roma do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Nova Santa Rita",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Barreiro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Cabrais",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Hamburgo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Machado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Tiradentes",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Novo Xingu",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Osório",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Paim Filho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Palmares do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Palmeira das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Palmitinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Panambi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pantano Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Paraí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Paraíso do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pareci Novo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Parobé",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Passa Sete",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Passo do Sobrado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Passo Fundo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Paulo Bento",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Paverama",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pedras Altas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pedro Osório",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pejuçara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pelotas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Picada Café",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pinhal",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pinhal da Serra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pinhal Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pinheirinho do Vale",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pinheiro Machado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pirapó",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Piratini",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Planalto",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Poço das Antas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pontão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ponte Preta",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Portão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Porto Alegre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Porto Lucena",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Porto Mauá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Porto Vera Cruz",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Porto Xavier",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Pouso Novo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Presidente Lucena",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Progresso",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Protásio Alves",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Putinga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Quaraí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Quatro Irmãos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Quevedos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Quinze de Novembro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Redentora",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Relvado",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Restinga Seca",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rio dos Índios",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rio Grande",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rio Pardo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Riozinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Roca Sales",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rodeio Bonito",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rolador",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rolante",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ronda Alta",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rondinha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Roque Gonzales",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Rosário do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sagrada Família",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Saldanha Marinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Salto do Jacuí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Salvador das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Salvador do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sananduva",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Bárbara do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Cecília do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Clara do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Cruz do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Margarida do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Maria",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Maria do Herval",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Rosa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Tereza",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santa Vitória do Palmar",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santana da Boa Vista",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santana do Livramento",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santiago",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Ângelo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Antônio da Patrulha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Antônio das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Antônio do Palma",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Antônio do Planalto",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Augusto",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Cristo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Santo Expedito do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Borja",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Domingos do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Francisco de Assis",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Francisco de Paula",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Gabriel",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Jerônimo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São João da Urtiga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São João do Polêsine",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Jorge",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Herval",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Hortêncio",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Inhacorá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Norte",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Ouro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São José dos Ausentes",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Leopoldo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Lourenço do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Luiz Gonzaga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Marcos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Martinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Martinho da Serra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Miguel das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Nicolau",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Paulo das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Pedro da Serra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Pedro das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Pedro do Butiá",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Pedro do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Sebastião do Caí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Sepé",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Valentim",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Valentim do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Valério do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Vendelino",
+    "UF": "RS"
+  },
+  {
+    "Nome": "São Vicente do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sapiranga",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sapucaia do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sarandi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Seberi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sede Nova",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Segredo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Selbach",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Senador Salgado Filho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sentinela do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Serafina Corrêa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sério",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sertão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sertão Santana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sete de Setembro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Severiano de Almeida",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Silveira Martins",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sinimbu",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Sobradinho",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Soledade",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tabaí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tapejara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tapera",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tapes",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Taquara",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Taquari",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Taquaruçu do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tavares",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tenente Portela",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Terra de Areia",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Teutônia",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tio Hugo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tiradentes do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Toropi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Torres",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tramandaí",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Travesseiro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Arroios",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Cachoeiras",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Coroas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três de Maio",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Forquilhas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Palmeiras",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Três Passos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Trindade do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Triunfo",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tucunduva",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tunas",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tupanci do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tupanciretã",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tupandi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Tuparendi",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Turuçu",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Ubiretama",
+    "UF": "RS"
+  },
+  {
+    "Nome": "União da Serra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Unistalda",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Uruguaiana",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vacaria",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vale do Sol",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vale Real",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vale Verde",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vanini",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Venâncio Aires",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vera Cruz",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Veranópolis",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vespasiano Correa",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Viadutos",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Viamão",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vicente Dutra",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Victor Graeff",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vila Flores",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vila Lângaro",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vila Maria",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vila Nova do Sul",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vista Alegre",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vista Alegre do Prata",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vista Gaúcha",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Vitória das Missões",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Westfália",
+    "UF": "RS"
+  },
+  {
+    "Nome": "Xangri-lá",
+    "UF": "RS"
+  }
+]

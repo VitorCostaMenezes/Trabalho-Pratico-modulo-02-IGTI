@@ -1,0 +1,870 @@
+[
+  {
+    "Nome": "Açailândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Afonso Cunha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Água Doce do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Alcântara",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Aldeias Altas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Altamira do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Alto Alegre do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Alto Alegre do Pindaré",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Alto Parnaíba",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Amapá do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Amarante do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Anajatuba",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Anapurus",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Apicum-Açu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Araguanã",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Araioses",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Arame",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Arari",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Axixá",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bacabal",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bacabeira",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bacuri",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bacurituba",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Balsas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Barão de Grajaú",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Barra do Corda",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Barreirinhas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bela Vista do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Belágua",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Benedito Leite",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bequimão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bernardo do Mearim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Boa Vista do Gurupi",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bom Jardim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bom Jesus das Selvas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Bom Lugar",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Brejo",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Brejo de Areia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Buriti",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Buriti Bravo",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Buriticupu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Buritirana",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cachoeira Grande",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cajapió",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cajari",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Campestre do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cândido Mendes",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cantanhede",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Capinzal do Norte",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Carolina",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Carutapera",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Caxias",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cedral",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Central do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Centro do Guilherme",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Centro Novo do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Chapadinha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cidelândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Codó",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Coelho Neto",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Colinas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Conceição do Lago-Açu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Coroatá",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Cururupu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Davinópolis",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Dom Pedro",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Duque Bacelar",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Esperantinópolis",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Estreito",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Feira Nova do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Fernando Falcão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Formosa da Serra Negra",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Fortaleza dos Nogueiras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Fortuna",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Godofredo Viana",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Gonçalves Dias",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Archer",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Edison Lobão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Eugênio Barros",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Luiz Rocha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Newton Bello",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Governador Nunes Freire",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Graça Aranha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Grajaú",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Guimarães",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Humberto de Campos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Icatu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Igarapé do Meio",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Igarapé Grande",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Imperatriz",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Itaipava do Grajaú",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Itapecuru Mirim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Itinga do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Jatobá",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Jenipapo dos Vieiras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "João Lisboa",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Joselândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Junco do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lago da Pedra",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lago do Junco",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lago dos Rodrigues",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lago Verde",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lagoa do Mato",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lagoa Grande do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lajeado Novo",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Lima Campos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Loreto",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Luís Domingues",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Magalhães de Almeida",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Maracaçumé",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Marajá do Sena",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Maranhãozinho",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Mata Roma",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Matinha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Matões",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Matões do Norte",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Milagres do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Mirador",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Miranda do Norte",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Mirinzal",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Monção",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Montes Altos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Morros",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Nina Rodrigues",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Nova Colinas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Nova Iorque",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Nova Olinda do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Olho d`Água das Cunhãs",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Olinda Nova do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Paço do Lumiar",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Palmeirândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Paraibano",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Parnarama",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Passagem Franca",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pastos Bons",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Paulino Neves",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Paulo Ramos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pedreiras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pedro do Rosário",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Penalva",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Peri Mirim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Peritoró",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pindaré-Mirim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pinheiro",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pio XII",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Pirapemas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Poção de Pedras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Porto Franco",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Porto Rico do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Presidente Dutra",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Presidente Juscelino",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Presidente Médici",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Presidente Sarney",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Presidente Vargas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Primeira Cruz",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Raposa",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Riachão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Ribamar Fiquene",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Rosário",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Sambaíba",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Filomena do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Helena",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Inês",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Luzia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Luzia do Paruá",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Quitéria do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santa Rita",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santana do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santo Amaro do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Santo Antônio dos Lopes",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Benedito do Rio Preto",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Bento",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Bernardo",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Domingos do Azeitão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Domingos do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Félix de Balsas",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Francisco do Brejão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Francisco do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São João Batista",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São João do Carú",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São João do Paraíso",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São João do Soter",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São João dos Patos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São José de Ribamar",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São José dos Basílios",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Luís",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Luís Gonzaga do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Mateus do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Pedro da Água Branca",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Pedro dos Crentes",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Raimundo das Mangabeiras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Raimundo do Doca Bezerra",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Roberto",
+    "UF": "MA"
+  },
+  {
+    "Nome": "São Vicente Ferrer",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Satubinha",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Senador Alexandre Costa",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Senador La Rocque",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Serrano do Maranhão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Sítio Novo",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Sucupira do Norte",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Sucupira do Riachão",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Tasso Fragoso",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Timbiras",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Timon",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Trizidela do Vale",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Tufilândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Tuntum",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Turiaçu",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Turilândia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Tutóia",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Urbano Santos",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Vargem Grande",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Viana",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Vila Nova dos Martírios",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Vitória do Mearim",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Vitorino Freire",
+    "UF": "MA"
+  },
+  {
+    "Nome": "Zé Doca",
+    "UF": "MA"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "Nome": "Afonso Cláudio",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Água Doce do Norte",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Águia Branca",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Alegre",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Alfredo Chaves",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Alto Rio Novo",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Anchieta",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Apiacá",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Aracruz",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Atilio Vivacqua",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Baixo Guandu",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Barra de São Francisco",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Boa Esperança",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Bom Jesus do Norte",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Brejetuba",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Cachoeiro de Itapemirim",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Cariacica",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Castelo",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Colatina",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Conceição da Barra",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Conceição do Castelo",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Divino de São Lourenço",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Domingos Martins",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Dores do Rio Preto",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Ecoporanga",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Fundão",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Governador Lindenberg",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Guaçuí",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Guarapari",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Ibatiba",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Ibiraçu",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Ibitirama",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Iconha",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Irupi",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Itaguaçu",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Itapemirim",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Itarana",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Iúna",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Jaguaré",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Jerônimo Monteiro",
+    "UF": "ES"
+  },
+  {
+    "Nome": "João Neiva",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Laranja da Terra",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Linhares",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Mantenópolis",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Marataízes",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Marechal Floriano",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Marilândia",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Mimoso do Sul",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Montanha",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Mucurici",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Muniz Freire",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Muqui",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Nova Venécia",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Pancas",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Pedro Canário",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Pinheiros",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Piúma",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Ponto Belo",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Presidente Kennedy",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Rio Bananal",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Rio Novo do Sul",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Santa Leopoldina",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Santa Maria de Jetibá",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Santa Teresa",
+    "UF": "ES"
+  },
+  {
+    "Nome": "São Domingos do Norte",
+    "UF": "ES"
+  },
+  {
+    "Nome": "São Gabriel da Palha",
+    "UF": "ES"
+  },
+  {
+    "Nome": "São José do Calçado",
+    "UF": "ES"
+  },
+  {
+    "Nome": "São Mateus",
+    "UF": "ES"
+  },
+  {
+    "Nome": "São Roque do Canaã",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Serra",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Sooretama",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Vargem Alta",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Venda Nova do Imigrante",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Viana",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Vila Pavão",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Vila Valério",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Vila Velha",
+    "UF": "ES"
+  },
+  {
+    "Nome": "Vitória",
+    "UF": "ES"
+  }
+]

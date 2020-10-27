@@ -1,0 +1,894 @@
+[
+  {
+    "Nome": "Acauã",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Agricolândia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Água Branca",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Alagoinha do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Alegrete do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Alto Longá",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Altos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Alvorada do Gurguéia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Amarante",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Angical do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Anísio de Abreu",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Antônio Almeida",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Aroazes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Aroeiras do Itaim",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Arraial",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Assunção do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Avelino Lopes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Baixa Grande do Ribeiro",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Barra d`Alcântara",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Barras",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Barreiras do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Barro Duro",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Batalha",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bela Vista do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Belém do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Beneditinos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bertolínia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Betânia do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Boa Hora",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bocaina",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bom Jesus",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bom Princípio do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Bonfim do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Boqueirão do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Brasileira",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Brejo do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Buriti dos Lopes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Buriti dos Montes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cabeceiras do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cajazeiras do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cajueiro da Praia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Caldeirão Grande do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Campinas do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Campo Alegre do Fidalgo",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Campo Grande do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Campo Largo do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Campo Maior",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Canavieira",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Canto do Buriti",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Capitão de Campos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Capitão Gervásio Oliveira",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Caracol",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Caraúbas do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Caridade do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Castelo do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Caxingó",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cocal",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cocal de Telha",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cocal dos Alves",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Coivaras",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Colônia do Gurguéia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Colônia do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Conceição do Canindé",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Coronel José Dias",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Corrente",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cristalândia do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Cristino Castro",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Curimatá",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Currais",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Curral Novo do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Curralinhos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Demerval Lobão",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Dirceu Arcoverde",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Dom Expedito Lopes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Dom Inocêncio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Domingos Mourão",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Elesbão Veloso",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Eliseu Martins",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Esperantina",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Fartura do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Flores do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Floresta do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Floriano",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Francinópolis",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Francisco Ayres",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Francisco Macedo",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Francisco Santos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Fronteiras",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Geminiano",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Gilbués",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Guadalupe",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Guaribas",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Hugo Napoleão",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Ilha Grande",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Inhuma",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Ipiranga do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Isaías Coelho",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Itainópolis",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Itaueira",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jacobina do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jaicós",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jardim do Mulato",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jatobá do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jerumenha",
+    "UF": "PI"
+  },
+  {
+    "Nome": "João Costa",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Joaquim Pires",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Joca Marques",
+    "UF": "PI"
+  },
+  {
+    "Nome": "José de Freitas",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Juazeiro do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Júlio Borges",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Jurema",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoa Alegre",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoa de São Francisco",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoa do Barro do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoa do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoa do Sítio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Lagoinha do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Landri Sales",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Luís Correia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Luzilândia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Madeiro",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Manoel Emídio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Marcolândia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Marcos Parente",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Massapê do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Matias Olímpio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Miguel Alves",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Miguel Leão",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Milton Brandão",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Monsenhor Gil",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Monsenhor Hipólito",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Monte Alegre do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Morro Cabeça no Tempo",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Morro do Chapéu do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Murici dos Portelas",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Nazaré do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Nossa Senhora de Nazaré",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Nossa Senhora dos Remédios",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Nova Santa Rita",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Novo Oriente do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Novo Santo Antônio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Oeiras",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Olho d`Água do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Padre Marcos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Paes Landim",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pajeú do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Palmeira do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Palmeirais",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Paquetá",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Parnaguá",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Parnaíba",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Passagem Franca do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Patos do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pau d`Arco do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Paulistana",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pavussu",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pedro II",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pedro Laurentino",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Picos",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pimenteiras",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Pio IX",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Piracuruca",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Piripiri",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Porto",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Porto Alegre do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Prata do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Queimada Nova",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Redenção do Gurguéia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Regeneração",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Riacho Frio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Ribeira do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Ribeiro Gonçalves",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Rio Grande do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santa Cruz do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santa Cruz dos Milagres",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santa Filomena",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santa Luz",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santa Rosa do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santana do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santo Antônio de Lisboa",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santo Antônio dos Milagres",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Santo Inácio do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Braz do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Félix do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Francisco de Assis do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Francisco do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Gonçalo do Gurguéia",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Gonçalo do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João da Canabrava",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João da Fronteira",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João da Serra",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João da Varjota",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João do Arraial",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São João do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São José do Divino",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São José do Peixe",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São José do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Julião",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Lourenço do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Luis do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Miguel da Baixa Grande",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Miguel do Fidalgo",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Miguel do Tapuio",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Pedro do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "São Raimundo Nonato",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Sebastião Barros",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Sebastião Leal",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Sigefredo Pacheco",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Simões",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Simplício Mendes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Socorro do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Sussuapara",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Tamboril do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Tanque do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Teresina",
+    "UF": "PI"
+  },
+  {
+    "Nome": "União",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Uruçuí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Valença do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Várzea Branca",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Várzea Grande",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Vera Mendes",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Vila Nova do Piauí",
+    "UF": "PI"
+  },
+  {
+    "Nome": "Wall Ferraz",
+    "UF": "PI"
+  }
+]
